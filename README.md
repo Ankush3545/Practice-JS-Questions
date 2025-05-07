@@ -1,1 +1,1 @@
-# Practice-JS-Questions.
+# Practice-JS-Questions
